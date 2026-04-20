@@ -24,9 +24,6 @@ The dashboard helps organizations understand value creation and financial perfor
 - Total Premium: 245.91bn
 - Highest Value Created: 49.17M
 
-# Dashboard Preview
-![Dashboard](Screenshots/dashboard.jpg)
-
 # Key Insights
 - Bancassurance partners create highest value
 - Premium growth visible over years
