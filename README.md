@@ -33,5 +33,3 @@ The dashboard helps organizations understand value creation and financial perfor
 # How to Use
 Download the .pbix file and open in Power BI Desktop.
 
-# Author
-Bhuvanesh Malviya
